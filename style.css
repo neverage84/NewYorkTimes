@@ -1,6 +1,6 @@
 nav {
     overflow: auto;
-    
+    border-radius: 10px;
     background-color:rgb(35, 49, 87);
     height: 150px;
     text-align: center;
@@ -18,4 +18,14 @@ p {
 }
 i {
     padding: 10px;
+}
+
+.MainContent {
+    margin-top: 50px;
+}
+
+.card-header {
+    background-color: rgb(47, 62, 78);
+    
+    color: white;
 }
