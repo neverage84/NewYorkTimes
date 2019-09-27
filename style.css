@@ -1,6 +1,6 @@
 nav {
     overflow: auto;
-    border-radius: 10px;
+    border-radius: 5px;
     background-color:rgb(35, 49, 87);
     height: 150px;
     text-align: center;
@@ -28,4 +28,8 @@ i {
     background-color: rgb(47, 62, 78);
     
     color: white;
+}
+
+.card {
+    background-color: white;
 }
