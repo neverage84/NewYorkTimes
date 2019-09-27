@@ -1,0 +1,21 @@
+nav {
+    overflow: auto;
+    
+    background-color:rgb(35, 49, 87);
+    height: 150px;
+    text-align: center;
+    
+}
+
+.navbar {
+font-size: 48px;
+color: whitesmoke;
+
+}
+
+p {
+    margin: 0 auto;
+}
+i {
+    padding: 10px;
+}
