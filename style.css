@@ -32,4 +32,10 @@ i {
 
 .card {
     background-color: white;
+    border-color: rgb(47, 62, 78);
+}
+
+.buttons {
+    color: white;
+    background-color: gray;
 }
