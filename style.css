@@ -17,7 +17,7 @@ p {
     margin: 0 auto;
 }
 i {
-    padding: 10px;
+    padding: 5px;
 }
 
 .MainContent {
@@ -37,5 +37,9 @@ i {
 
 .buttons {
     color: white;
-    background-color: gray;
+    background-color: lightgrey;
+}
+
+.ResultsRow {
+    margin-top: 30px;
 }
